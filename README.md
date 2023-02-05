@@ -1,4 +1,3 @@
-[![MasterHead](https://resources.reed.co.uk/courses/coursemedia/355795/c84745b6-a6ed-480b-95fe-db7221e8a6a0_cover.jpg)]
 <h1 align="center">Hi 👋, I'm Mohamed Elbauomy</h1>
 <h3 align="center">Mobile Application Developer (Flutter)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
